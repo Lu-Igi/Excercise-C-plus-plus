@@ -33,7 +33,7 @@ cout<<"Attenzione il valore "<<gruppo[a]<<" non e' accettabile " <<endl;
 }
 a++;
 }
-while(gruppo[a]<10);
+while(a<10);
 
 cout<<endl;
 cout<<"Vettore originale 1 "<<endl;
