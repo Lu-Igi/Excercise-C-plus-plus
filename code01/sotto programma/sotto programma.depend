@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668800522 source:/home/luigi/Scrivania/Excercise-C-plus-plus/a.code/sotto programma/main.cpp
+	<iostream>
+	<cstdlib>
+

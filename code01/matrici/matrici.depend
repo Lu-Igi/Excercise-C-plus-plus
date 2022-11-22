@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668249995 source:/home/luigi/Scrivania/Excercise-C-plus-plus/a.code/matrici/main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
