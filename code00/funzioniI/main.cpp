@@ -1,3 +1,5 @@
+/*Le funziono in un linguaggio di programmazione sono pezzi di codice
+utilizzati per richiamare il nome di quella funzioen or un sottoprogramma*/
 #include <iostream>
 
 using namespace std;
@@ -14,7 +16,8 @@ int main()
     cout << "La somma e': " <<secondoRisultato << endl;
     return 0;
 }
-//Funzioni
+//Funzioni //due funzioni distinte
+//funzione main esguita in automatica all'interno di se stessa
 int somma (int a, int b)
 {
 
@@ -48,4 +51,5 @@ int risultato;
 risultato=a+b;
 return risultato;
 }
-
+/*passaggio per valore sono i parametri già inseriti nella funzione, per riferimento  nvece di passare il valore si passa la cella di memoria
+modificando quello che ce nella (cella) &davanit alle variabiòo*/
