@@ -15,6 +15,7 @@ somma=somma+vet[i];
 }
 cout<<" La somma dell'eta dei studenti e " <<somma;
 media=somma/10.0;
+//media=somma/2 o i valori che sono stai inseriti
 cout <<" La media dell'età degli studenti e " << media;
 
 for (i=0;i<10;i++)
