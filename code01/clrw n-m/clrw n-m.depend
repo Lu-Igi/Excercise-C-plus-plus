@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675115959 source:/home/luigi/Scrivania/Excercise-C-plus-plus/code01/clrw n-m/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
