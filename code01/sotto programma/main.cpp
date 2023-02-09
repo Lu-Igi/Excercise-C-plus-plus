@@ -3,10 +3,10 @@
 using namespace std;
 
 
-void apertura (float & ss, int & dt)
+void apertura (float & fc, int & dt)
 {
 cout<<"Inserisci il fondo cassa ";
-cin>> ss;
+cin>> fc;
 cout<<"Inserisci data ";
 cin>> dt;
 cout<<"\n";
@@ -15,7 +15,7 @@ cout<<"\n";
 void cliente(int &n_c, float &tt_sc, int &n_s)
 {
 float cons;
-n_c=0; tt_sc=0;
+n_c=0; tt_sc=0; n_s;
 
 cout<<"Per inziare un nuovo scontrino premi 0 "<<endl;
 do
