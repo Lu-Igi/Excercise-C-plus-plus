@@ -38,7 +38,7 @@ cout<<"Tot.ale da pagare: "<<tt_sc<<endl;
 void uscita (float&tg,int&nt,int&pn)
 {
 cout<<"Incasso totale:  "<<tg<<endl;
-cout<<"Numero consumaazione vendute "<<nt<<endl;
+cout<<"Numero consumazione vendute "<<nt<<endl;
 cout<<"Numero scontrini emessi "<<pn<<endl;
 }
 

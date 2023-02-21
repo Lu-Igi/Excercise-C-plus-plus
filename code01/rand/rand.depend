@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676021648 source:/home/luigi/Scrivania/Excercise-C-plus-plus/code01/rand/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
