@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676740285 source:/home/luigi/Scrivania/Excercise-C-plus-plus/code02/record/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
